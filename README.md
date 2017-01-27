@@ -30,12 +30,12 @@ You can also use the cdn
 Install via NPM:
 
 ```bash
-npm install aframe-sun-sky
+npm install aframe-gradient-sky
 ```
 
 Then register and use.
 
 ```js
 require('aframe');
-require('aframe-sun-sky');
+require('aframe-gradient-sky');
 ```
