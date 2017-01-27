@@ -11,7 +11,7 @@ You can load
 
 #### Browser Installation
 
-Install and use by directly including the [browser files](dist):
+Install and use by directly including the [browser file](src):
 
 ```html
 <head>
