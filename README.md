@@ -4,7 +4,7 @@ A gradient sky component for the A-Frame WebVR Framework.
 ### Usage
 
 You can load 
-```javascript
+```html
 <a-gradient-sky></a-gradient-sky>
 ```
 
