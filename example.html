@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>A-Frame Gradient-Sky</title>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/aframe/0.4.0/aframe.min.js"></script>
+	<script src="src/index.js"></script>
+</head>
+<body>
+
+<a-scene>
+      <a-sphere position="0 1.25 -1" radius="1.25" color="silver"></a-sphere>
+      <a-box position="-1 0.5 1" rotation="0 45 0" width="1" height="1" depth="1"  color="silver"></a-box>
+      <a-cylinder position="1 0.75 1" radius="0.5" height="1.5" color="silver"></a-cylinder>
+      <a-plane rotation="-90 0 0" width="4" height="4" color="darkblue"></a-plane>
+      <a-gradient-sky material="topColor: 0 255 0; bottomColor: 255 0 0;"></a-gradient-sky>
+      <a-entity position="0 0 3.8">
+        <a-camera></a-camera>
+      </a-entity>
+</a-scene>
+	
+</body>
+</html>
