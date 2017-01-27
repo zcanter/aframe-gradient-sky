@@ -7,6 +7,7 @@ A gradient sky component for the A-Frame WebVR Framework.
 
 Install and use by directly including the [browser files](dist):
 
+
 ```html
 <head>
   <title>My A-Frame Scene</title>
