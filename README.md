@@ -6,7 +6,10 @@ A gradient sky component for the A-Frame WebVR Framework.
 #### Browser Installation
 
 Install and use by directly including the [browser files](dist):
-
+You can also use the cdn 
+```html 
+<script src="https://cdn.rawgit.com/zcanter/aframe-gradient-sky/"></script> 
+```
 
 ```html
 <head>
