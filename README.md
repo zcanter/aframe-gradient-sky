@@ -15,7 +15,7 @@ Install and use by directly including the [browser file](dist):
 <head>
   <title>My A-Frame Scene</title>
   <script src="https://aframe.io/releases/0.3.0/aframe.min.js"></script>
-  <script src="https://cdn.rawgit.com/zcanter/aframe-gradient-sky/"></script>
+  <script src="https://cdn.rawgit.com/zcanter/aframe-gradient-sky/master/dist/gradientsky.min.js"></script>
 </head>
 
 <body>
