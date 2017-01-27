@@ -1,7 +1,7 @@
 # aframe-gradient-sky
 A gradient sky component for the A-Frame WebVR Framework.
 
-Check out the [example](https://zcanter.github.io/aframe-gradient-sky/):
+Check out the: [Gradient Sky Example](https://zcanter.github.io/aframe-gradient-sky/)
 
 ![A-Frame Gradient Sky](https://cloud.githubusercontent.com/assets/5613001/22364303/65a91ce2-e425-11e6-8086-c4401b15dcdb.png)
 
