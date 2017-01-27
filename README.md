@@ -7,12 +7,6 @@ Check out the: [Gradient Sky Example](https://zcanter.github.io/aframe-gradient-
 
 ### Usage
 
-You can load 
-```html
-<a-gradient-sky></a-gradient-sky>
-```
-
-
 #### Browser Installation
 
 Install and use by directly including the [browser file](dist):
@@ -26,7 +20,7 @@ Install and use by directly including the [browser file](dist):
 
 <body>
   <a-scene>
-    <a-gradient-sky></a-gradient-sky>
+    <a-gradient-sky material="shader: gradient; topColor: 255 0 0; bottomColor: 0 0 255;"></a-gradient-sky>
   </a-scene>
 </body>
 ```
