@@ -1,0 +1,33 @@
+{
+  "name": "aframe-gradient-sky",
+  "version": "1.0.0",
+  "description": "A-Frame gradient sky component",
+  "main": "./src/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zcanter/aframe-gradient-sky.git"
+  },
+  "keywords": [
+    "aframe",
+    "gradient",
+    "skybox",
+    "webvr"
+  ],
+  "author": "Zac Canter <zrcanter@gmail.com> (https://github.com/zcanter)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zcanter/aframe-gradient-sky/issues"
+  },
+  "homepage": "https://github.com/zcanter/aframe-gradient-sky#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^1.14.0",
+    "webpack-glsl-loader": "^1.0.1"
+  }
+}
