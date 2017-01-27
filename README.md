@@ -20,7 +20,7 @@ Install and use by directly including the [browser file](dist):
 
 <body>
   <a-scene>
-    <a-gradient-sky material="topColor: 255 0 0; bottomColor: 0 0 255;"></a-gradient-sky>
+    <a-gradient-sky material="topColor: 255 0 0; bottomColor: 0 121 255;"></a-gradient-sky>
   </a-scene>
 </body>
 ```
