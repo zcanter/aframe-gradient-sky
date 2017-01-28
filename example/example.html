@@ -29,9 +29,6 @@ var ColorUpdates = function() {
   this.displayOutline = false;
   this.topColor = [255,0,0];
   this.bottomColor = [0,121,255];
-  this.reset = function() { 
-    $("a-gradient-sky").attr("material", "shader: gradient; topColor: 255 0 0; bottomColor: 0 121 255;")
-  };
   
 };
 
@@ -42,7 +39,6 @@ window.onload = function() {
   var gui = new dat.GUI();
   var controllerTop = gui.addColor(updates, 'topColor');
   var controllerBottom = gui.addColor(updates, 'bottomColor');
-  gui.add(updates, 'reset');
   var bottomColor = [0,121,255]
   var topColor = [255,0,0]
   controllerTop.onChange(function(value) {
