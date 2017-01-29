@@ -25,7 +25,7 @@ Install and use by directly including the [browser file](dist):
 </body>
 ```
 
-<!-- #### NPM Installation
+#### NPM Installation
 
 Install via NPM:
 
@@ -38,4 +38,4 @@ Then register and use.
 ```js
 require('aframe');
 require('aframe-gradient-sky');
-``` -->
+```
