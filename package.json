@@ -2,7 +2,7 @@
   "name": "aframe-gradient-sky",
   "version": "1.0.0",
   "description": "A-Frame gradient sky component",
-  "main": "./src/index.js",
+  "main": "./dist/index.js",
   "directories": {
     "example": "example"
   },
